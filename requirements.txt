@@ -1,0 +1,7 @@
+pip==23.3.1
+streamlit
+openai
+PyPDF2
+pymysql
+chromadb
+langchain
